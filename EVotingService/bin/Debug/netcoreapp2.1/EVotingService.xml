@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EVotingService</name>
+    </assembly>
+    <members>
+        <member name="T:EVotingService.Controllers.PersonsController">
+            <summary>
+            Controller for the Person resources
+            </summary>
+        </member>
+        <member name="M:EVotingService.Controllers.PersonsController.#ctor(Abstractions.IPersonRepository)">
+            <summary>
+            Initializes this class
+            </summary>
+            <param name="personRepository"></param>
+        </member>
+        <member name="M:EVotingService.Controllers.PersonsController.Get(System.String)">
+            <summary>
+            Returns the Person with the given Id
+            </summary>
+            <param name="personId"></param>
+            <returns>The requested Person</returns>
+            <response code="200">If the Person exists</response>
+            <response code="400">If the Person doesn't exist</response>
+        </member>
+        <member name="M:EVotingService.Controllers.PersonsController.Add(EVotingService.ServiceModels.AddPersonModel)">
+            <summary>
+            Adds a new Person to the database
+            </summary>
+            <param name="anAddPersonModel"></param>
+            <response code="204">If the operation was successful</response>
+        </member>
+        <member name="T:EVotingService.Controllers.PollsController">
+            <summary>
+            Controller for the Poll resources
+            </summary>
+        </member>
+        <member name="M:EVotingService.Controllers.PollsController.#ctor(Abstractions.IPollRepository,Abstractions.IVoteRepository)">
+            <summary>
+            Initializes this class
+            </summary>
+            <param name="pollRepository"></param>
+            <param name="voteRepository"></param>
+        </member>
+        <member name="M:EVotingService.Controllers.PollsController.Get(System.String)">
+            <summary>
+            Returns the Poll with the given Id
+            </summary>
+            <param name="aPollId"></param>
+            <returns>The requested Poll</returns>
+            <response code="200">If the Poll exists</response>
+            <response code="204">If the Poll doesn't exist</response>
+        </member>
+        <member name="M:EVotingService.Controllers.PollsController.GetPollsForUser(System.String)">
+            <summary>
+            Returns the available Polls for a Person
+            </summary>
+            <param name="aPersonId"></param>
+            <returns>A List of Polls</returns>
+            <response code="200">If the operation was successful</response>
+        </member>
+        <member name="M:EVotingService.Controllers.PollsController.Add(EVotingService.ServiceModels.AddPollModel)">
+            <summary>
+            Adds a new Poll to the database
+            </summary>
+            <param name="anAddPollModel"></param>
+            <response code="204">If the operation was successful</response>
+        </member>
+        <member name="T:EVotingService.Controllers.ValidateController">
+            <summary>
+            Controller for the Validation resources
+            </summary>
+        </member>
+        <member name="M:EVotingService.Controllers.ValidateController.#ctor(Abstractions.IPersonRepository)">
+            <summary>
+            Initializes this class
+            </summary>
+            <param name="personRepository"></param>
+        </member>
+        <member name="M:EVotingService.Controllers.ValidateController.Validate(EVotingService.ServiceModels.ValidatePersonModel)">
+            <summary>
+            Checks whether the Person with the given id's birth date matches with the given
+            </summary>
+            <param name="aValidatePersonModel"></param>
+            <returns>The requested Person</returns>
+            <response code="200">If the birthdays do match</response>
+            <response code="400">If the birthdays don't match</response> 
+        </member>
+        <member name="T:EVotingService.Controllers.VotesController">
+            <summary>
+            Controller for the Vote resources
+            </summary>
+        </member>
+        <member name="M:EVotingService.Controllers.VotesController.#ctor(Abstractions.IVoteRepository)">
+            <summary>
+            Initializes this class
+            </summary>
+            <param name="voteRepository"></param>
+        </member>
+        <member name="M:EVotingService.Controllers.VotesController.Get(System.String)">
+            <summary>
+            Returns the Vote with the given Id
+            </summary>
+            <param name="aVoteId"></param>
+            <returns>The requested Vote</returns>
+            <response code="200">If Vote exists</response>
+            <response code="400">If Vote doesn't exist</response>
+        </member>
+        <member name="M:EVotingService.Controllers.VotesController.Add(EVotingService.ServiceModels.AddVoteModel)">
+            <summary>
+            Adds a new Vote to the database
+            </summary>
+            <param name="anAddVoteModel"></param>
+            <response code="200">If the operation was successful</response>
+        </member>
+    </members>
+</doc>

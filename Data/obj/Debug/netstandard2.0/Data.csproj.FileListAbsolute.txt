@@ -1,0 +1,12 @@
+/Users/lucienzimmermann/Documents/Workspaces/Rider Workspace/EVotingService/EVotingService/Data/bin/Debug/netstandard2.0/Data.deps.json
+/Users/lucienzimmermann/Documents/Workspaces/Rider Workspace/EVotingService/EVotingService/Data/bin/Debug/netstandard2.0/Data.dll
+/Users/lucienzimmermann/Documents/Workspaces/Rider Workspace/EVotingService/EVotingService/Data/bin/Debug/netstandard2.0/Data.pdb
+/Users/lucienzimmermann/Documents/Workspaces/Rider Workspace/EVotingService/EVotingService/Data/bin/Debug/netstandard2.0/Abstractions.dll
+/Users/lucienzimmermann/Documents/Workspaces/Rider Workspace/EVotingService/EVotingService/Data/bin/Debug/netstandard2.0/Abstractions.pdb
+/Users/lucienzimmermann/Documents/Workspaces/Rider Workspace/EVotingService/EVotingService/Data/obj/Debug/netstandard2.0/Data.csprojAssemblyReference.cache
+/Users/lucienzimmermann/Documents/Workspaces/Rider Workspace/EVotingService/EVotingService/Data/obj/Debug/netstandard2.0/Data.csproj.CoreCompileInputs.cache
+/Users/lucienzimmermann/Documents/Workspaces/Rider Workspace/EVotingService/EVotingService/Data/obj/Debug/netstandard2.0/Data.AssemblyInfoInputs.cache
+/Users/lucienzimmermann/Documents/Workspaces/Rider Workspace/EVotingService/EVotingService/Data/obj/Debug/netstandard2.0/Data.AssemblyInfo.cs
+/Users/lucienzimmermann/Documents/Workspaces/Rider Workspace/EVotingService/EVotingService/Data/obj/Debug/netstandard2.0/Data.csproj.CopyComplete
+/Users/lucienzimmermann/Documents/Workspaces/Rider Workspace/EVotingService/EVotingService/Data/obj/Debug/netstandard2.0/Data.dll
+/Users/lucienzimmermann/Documents/Workspaces/Rider Workspace/EVotingService/EVotingService/Data/obj/Debug/netstandard2.0/Data.pdb

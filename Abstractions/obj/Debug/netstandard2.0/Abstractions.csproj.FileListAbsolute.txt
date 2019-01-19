@@ -1,0 +1,12 @@
+/Users/lucienzimmermann/Documents/Workspaces/Rider Workspace/EVotingService/EVotingService/Abstractions/bin/Debug/netstandard2.0/Abstractions.deps.json
+/Users/lucienzimmermann/Documents/Workspaces/Rider Workspace/EVotingService/EVotingService/Abstractions/bin/Debug/netstandard2.0/Abstractions.dll
+/Users/lucienzimmermann/Documents/Workspaces/Rider Workspace/EVotingService/EVotingService/Abstractions/bin/Debug/netstandard2.0/Abstractions.pdb
+/Users/lucienzimmermann/Documents/Workspaces/Rider Workspace/EVotingService/EVotingService/Abstractions/obj/Debug/netstandard2.0/Abstractions.csprojAssemblyReference.cache
+/Users/lucienzimmermann/Documents/Workspaces/Rider Workspace/EVotingService/EVotingService/Abstractions/obj/Debug/netstandard2.0/Abstractions.csproj.CoreCompileInputs.cache
+/Users/lucienzimmermann/Documents/Workspaces/Rider Workspace/EVotingService/EVotingService/Abstractions/obj/Debug/netstandard2.0/Abstractions.AssemblyInfoInputs.cache
+/Users/lucienzimmermann/Documents/Workspaces/Rider Workspace/EVotingService/EVotingService/Abstractions/obj/Debug/netstandard2.0/Abstractions.AssemblyInfo.cs
+/Users/lucienzimmermann/Documents/Workspaces/Rider Workspace/EVotingService/EVotingService/Abstractions/obj/Debug/netstandard2.0/Abstractions.dll
+/Users/lucienzimmermann/Documents/Workspaces/Rider Workspace/EVotingService/EVotingService/Abstractions/obj/Debug/netstandard2.0/Abstractions.pdb
+/Users/lucienzimmermann/Documents/Workspaces/Rider Workspace/EVotingService/EVotingService/Abstractions/bin/Debug/netstandard2.0/MongoDB.Bson.dll
+/Users/lucienzimmermann/Documents/Workspaces/Rider Workspace/EVotingService/EVotingService/Abstractions/bin/Debug/netstandard2.0/MongoDB.Bson.xml
+/Users/lucienzimmermann/Documents/Workspaces/Rider Workspace/EVotingService/EVotingService/Abstractions/obj/Debug/netstandard2.0/Abstractions.csproj.CopyComplete

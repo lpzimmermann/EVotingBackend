@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e9765fa-715e-40eb-866b-f56fa3534d19" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1817931330">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="67" />
+          <entry key="csproj" value="4" />
+          <entry key="json" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="67" />
+          <entry key="Csproj" value="4" />
+          <entry key="JSON" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="8174" />
+          <entry key="csproj" value="21" />
+          <entry key="json" value="32" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="8174" />
+          <entry key="Csproj" value="21" />
+          <entry key="JSON" value="32" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EVotingService/Controllers/VotesController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="58" column="9" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
+              <folding>
+                <marker date="1547728823756" expanded="false" signature="6:184" ph="..." />
+                <marker date="1547728823756" expanded="true" signature="229:303" ph="/// Controller for the Vote resources ... " />
+                <marker date="1547728823756" expanded="true" signature="405:2115" ph="{...}" />
+                <marker date="1547728823756" expanded="true" signature="480:601" ph="/// Initializes this class ... " />
+                <marker date="1547728823756" expanded="true" signature="664:730" ph="{...}" />
+                <marker date="1547728823756" expanded="true" signature="740:1041" ph="/// Returns the Vote with the given Id ... " />
+                <marker date="1547728823756" expanded="true" signature="1230:1457" ph="{...}" />
+                <marker date="1547728823756" expanded="true" signature="1353:1418" ph="{...}" />
+                <marker date="1547728823756" expanded="true" signature="1471:1677" ph="/// Adds a new Vote to the database ... " />
+                <marker date="1547728823756" expanded="true" signature="1784:2109" ph="{...}" />
+                <marker date="1547728823756" expanded="true" signature="1854:2097" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EVotingService/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+              <folding>
+                <marker date="1547728857855" expanded="false" signature="6:255" ph="..." />
+                <marker date="1547728857855" expanded="true" signature="313:611" ph="{...}" />
+                <marker date="1547728857855" expanded="true" signature="366:440" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EVotingService/Controllers/PersonsController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="62" column="13" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
+              <folding>
+                <marker date="1547729677044" expanded="false" signature="6:293" ph="..." />
+                <marker date="1547729677044" expanded="true" signature="338:414" ph="/// Controller for the Person resources ... " />
+                <marker date="1547729677044" expanded="true" signature="518:2279" ph="{...}" />
+                <marker date="1547729677044" expanded="true" signature="596:719" ph="/// Initializes this class ... " />
+                <marker date="1547729677044" expanded="true" signature="788:858" ph="{...}" />
+                <marker date="1547729677044" expanded="true" signature="868:1186" ph="/// Returns the Person with the given Id ... " />
+                <marker date="1547729677044" expanded="true" signature="1379:1618" ph="{...}" />
+                <marker date="1547729677044" expanded="true" signature="1512:1577" ph="{...}" />
+                <marker date="1547729677044" expanded="true" signature="1628:1838" ph="/// Adds a new Person to the database ... " />
+                <marker date="1547729677044" expanded="true" signature="1949:2264" ph="{...}" />
+                <marker date="1547729677044" expanded="true" signature="2025:2252" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EVotingService/Controllers/ValidateController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+              <folding>
+                <marker date="1547728801840" expanded="false" signature="6:222" ph="..." />
+                <marker date="1547728801840" expanded="true" signature="267:347" ph="/// Controller for the Validation resources ... " />
+                <marker date="1547728801840" expanded="true" signature="452:1718" ph="{...}" />
+                <marker date="1547728801840" expanded="true" signature="530:653" ph="/// Initializes this class ... " />
+                <marker date="1547728801840" expanded="true" signature="723:793" ph="{...}" />
+                <marker date="1547728801840" expanded="true" signature="803:1183" ph="/// Checks whether the Person with the given id's birth date matches with the given ... " />
+                <marker date="1547728801840" expanded="true" signature="1373:1712" ph="{...}" />
+                <marker date="1547728801840" expanded="true" signature="1603:1667" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EVotingService/ServiceModels/AddVoteModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+              <folding>
+                <marker date="1547730195802" expanded="true" signature="6:97" ph="..." />
+                <marker date="1547730195802" expanded="true" signature="169:476" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/PollRepository.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+              <folding>
+                <marker date="1547130851876" expanded="false" signature="6:185" ph="..." />
+                <marker date="1547130851876" expanded="true" signature="253:985" ph="{...}" />
+                <marker date="1547130851876" expanded="true" signature="394:460" ph="{...}" />
+                <marker date="1547130851876" expanded="true" signature="518:671" ph="{...}" />
+                <marker date="1547130851876" expanded="true" signature="725:855" ph="{...}" />
+                <marker date="1547130851876" expanded="true" signature="902:979" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EVotingService/Validators/ObjectIdValidator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="23" column="5" selection-start-line="5" selection-start-column="3" selection-end-line="23" selection-end-column="5" />
+              <folding>
+                <marker date="1547721109424" expanded="false" signature="6:64" ph="..." />
+                <marker date="1547721109424" expanded="true" signature="160:657" ph="{...}" />
+                <marker date="1547721109424" expanded="true" signature="269:532" ph="{...}" />
+                <marker date="1547721109424" expanded="true" signature="384:476" ph="{...}" />
+                <marker date="1547721109424" expanded="true" signature="574:651" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EVotingService/Validators/AntwortValidator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="45" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+              <folding>
+                <marker date="1547730185400" expanded="true" signature="6:98" ph="..." />
+                <marker date="1547730185400" expanded="true" signature="193:730" ph="{...}" />
+                <marker date="1547730185400" expanded="true" signature="315:600" ph="{...}" />
+                <marker date="1547730185400" expanded="true" signature="432:536" ph="{...}" />
+                <marker date="1547730185400" expanded="true" signature="646:720" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/EVotingService/Controllers/PollsController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
+              <folding>
+                <marker date="1547730534359" expanded="false" signature="6:218" ph="..." />
+                <marker date="1547730534359" expanded="true" signature="256:3271" ph="{...}" />
+                <marker date="1547730534359" expanded="true" signature="263:337" ph="/// Controller for the Poll resources ... " />
+                <marker date="1547730534359" expanded="true" signature="439:3269" ph="{...}" />
+                <marker date="1547730534359" expanded="true" signature="572:743" ph="/// Initializes this class ... " />
+                <marker date="1547730534359" expanded="true" signature="838:950" ph="{...}" />
+                <marker date="1547730534359" expanded="true" signature="960:1269" ph="/// Returns the Poll with the given Id ... " />
+                <marker date="1547730534359" expanded="true" signature="1458:1685" ph="{...}" />
+                <marker date="1547730534359" expanded="true" signature="1580:1645" ph="{...}" />
+                <marker date="1547730534359" expanded="true" signature="1695:1952" ph="/// Returns the available Polls for a Person ... " />
+                <marker date="1547730534359" expanded="true" signature="2141:2645" ph="{...}" />
+                <marker date="1547730534359" expanded="true" signature="2336:2587" ph="{...}" />
+                <marker date="1547730534359" expanded="true" signature="2495:2573" ph="{...}" />
+                <marker date="1547730534359" expanded="true" signature="2655:2861" ph="/// Adds a new Poll to the database ... " />
+                <marker date="1547730534359" expanded="true" signature="2968:3263" ph="{...}" />
+                <marker date="1547730534359" expanded="true" signature="3038:3251" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Abstractions/Poll.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+              <folding>
+                <marker date="1547130434788" expanded="false" signature="6:97" ph="..." />
+                <marker date="1547130434788" expanded="true" signature="145:331" ph="{...}" />
+                <marker date="1547130434788" expanded="true" signature="369:501" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/EVotingService/Validators/AntwortValidator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0A1CBC4D-53B1-49E5-9649-83CCC7B57717/4b/67b8399c/MongoClient.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/PersonRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EVotingService/ServiceModels/AddPersonModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EVotingService/Controllers/ValidateController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/VoteRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EVotingService/ServiceModels/AddVoteModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/DbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EVotingService/Controllers/VotesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/DataExtension.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EVotingService/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EVotingService/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abstractions/Poll.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abstractions/Vote.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EVotingService/Validators/ObjectIdValidator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abstractions/Person.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/PollRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EVotingService/ServiceModels/ValidatePersonModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EVotingService/Controllers/PersonsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EVotingService/Controllers/PollsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EVotingService/ServiceModels/AddPollModel.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Abstractions/Class1.cs" />
+        <option value="$PROJECT_DIR$/Data/Class1.cs" />
+        <option value="$PROJECT_DIR$/Data/Data.csproj" />
+        <option value="$PROJECT_DIR$/EVotingService/appsettings.Development.json" />
+        <option value="$PROJECT_DIR$/EVotingService/Controllers/ValuesController.cs" />
+        <option value="$PROJECT_DIR$/Data/PersonRepository.cs" />
+        <option value="$PROJECT_DIR$/Data/DbContext.cs" />
+        <option value="$PROJECT_DIR$/Data/DataExtension.cs" />
+        <option value="$PROJECT_DIR$/Abstractions/Person.cs" />
+        <option value="$PROJECT_DIR$/EVotingService/Controllers/ValidatesController.cs" />
+        <option value="$PROJECT_DIR$/Abstractions/Poll.cs" />
+        <option value="$PROJECT_DIR$/Data/PollRepository.cs" />
+        <option value="$PROJECT_DIR$/Abstractions/Vote.cs" />
+        <option value="$PROJECT_DIR$/Data/VoteRepository.cs" />
+        <option value="$PROJECT_DIR$/EVotingService/Validators/ObjectIdValidator.cs" />
+        <option value="$PROJECT_DIR$/EVotingService/ServiceModels/ValidatePersonModel.cs" />
+        <option value="$PROJECT_DIR$/EVotingService/ServiceModels/AddPollModel.cs" />
+        <option value="$PROJECT_DIR$/EVotingService/ServiceModels/AddPersonModel.cs" />
+        <option value="$PROJECT_DIR$/EVotingService/Startup.cs" />
+        <option value="$PROJECT_DIR$/EVotingService/EVotingService.csproj" />
+        <option value="$PROJECT_DIR$/EVotingService/Controllers/ValidateController.cs" />
+        <option value="$PROJECT_DIR$/EVotingService/Program.cs" />
+        <option value="$PROJECT_DIR$/EVotingService/Controllers/PersonsController.cs" />
+        <option value="$PROJECT_DIR$/EVotingService/Controllers/VotesController.cs" />
+        <option value="$PROJECT_DIR$/EVotingService/Validators/AntwortValidator.cs" />
+        <option value="$PROJECT_DIR$/EVotingService/ServiceModels/AddVoteModel.cs" />
+        <option value="$PROJECT_DIR$/EVotingService/Controllers/PollsController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="830" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="EVotingService" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/EVotingService/bin/Debug/netcoreapp2.1/EVotingService.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EVotingService" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="https://localhost:5001;http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/EVotingService/EVotingService.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser url="https://localhost:5001" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e9765fa-715e-40eb-866b-f56fa3534d19" name="Default Changelist" comment="" />
+      <created>1544708670531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544708670531</updated>
+      <workItem from="1544708674295" duration="5340000" />
+      <workItem from="1545314429071" duration="6009000" />
+      <workItem from="1547121828279" duration="11823000" />
+      <workItem from="1547720863739" duration="6809000" />
+      <workItem from="1547843072319" duration="338000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="30319000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28674698" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3387534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.25474253" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="REST Client" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32891566" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Data/Data.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0A1CBC4D-53B1-49E5-9649-83CCC7B57717/4b/67b8399c/MongoClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="82" column="11" selection-start-line="82" selection-start-column="11" selection-end-line="82" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/PersonRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EVotingService/Controllers/ValuesController.cs" />
+    <entry file="file://$PROJECT_DIR$/Data/DbContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="42" column="14" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abstractions/Person.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/DataExtension.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EVotingService/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EVotingService/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EVotingService/Properties/launchSettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-151" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abstractions/Vote.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="68" selection-start-line="24" selection-start-column="68" selection-end-line="24" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/VoteRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EVotingService/ServiceModels/AddPersonModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EVotingService/ServiceModels/ValidatePersonModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EVotingService/ServiceModels/AddPollModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EVotingService/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EVotingService/EVotingService.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EVotingService/Controllers/VotesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="58" column="9" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
+          <folding>
+            <marker date="1547728823756" expanded="false" signature="6:184" ph="..." />
+            <marker date="1547728823756" expanded="true" signature="229:303" ph="/// Controller for the Vote resources ... " />
+            <marker date="1547728823756" expanded="true" signature="405:2115" ph="{...}" />
+            <marker date="1547728823756" expanded="true" signature="480:601" ph="/// Initializes this class ... " />
+            <marker date="1547728823756" expanded="true" signature="664:730" ph="{...}" />
+            <marker date="1547728823756" expanded="true" signature="740:1041" ph="/// Returns the Vote with the given Id ... " />
+            <marker date="1547728823756" expanded="true" signature="1230:1457" ph="{...}" />
+            <marker date="1547728823756" expanded="true" signature="1353:1418" ph="{...}" />
+            <marker date="1547728823756" expanded="true" signature="1471:1677" ph="/// Adds a new Vote to the database ... " />
+            <marker date="1547728823756" expanded="true" signature="1784:2109" ph="{...}" />
+            <marker date="1547728823756" expanded="true" signature="1854:2097" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EVotingService/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <folding>
+            <marker date="1547728857855" expanded="false" signature="6:255" ph="..." />
+            <marker date="1547728857855" expanded="true" signature="313:611" ph="{...}" />
+            <marker date="1547728857855" expanded="true" signature="366:440" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EVotingService/Controllers/PersonsController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="62" column="13" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
+          <folding>
+            <marker date="1547729677044" expanded="false" signature="6:293" ph="..." />
+            <marker date="1547729677044" expanded="true" signature="338:414" ph="/// Controller for the Person resources ... " />
+            <marker date="1547729677044" expanded="true" signature="518:2279" ph="{...}" />
+            <marker date="1547729677044" expanded="true" signature="596:719" ph="/// Initializes this class ... " />
+            <marker date="1547729677044" expanded="true" signature="788:858" ph="{...}" />
+            <marker date="1547729677044" expanded="true" signature="868:1186" ph="/// Returns the Person with the given Id ... " />
+            <marker date="1547729677044" expanded="true" signature="1379:1618" ph="{...}" />
+            <marker date="1547729677044" expanded="true" signature="1512:1577" ph="{...}" />
+            <marker date="1547729677044" expanded="true" signature="1628:1838" ph="/// Adds a new Person to the database ... " />
+            <marker date="1547729677044" expanded="true" signature="1949:2264" ph="{...}" />
+            <marker date="1547729677044" expanded="true" signature="2025:2252" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EVotingService/Controllers/ValidateController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+          <folding>
+            <marker date="1547728801840" expanded="false" signature="6:222" ph="..." />
+            <marker date="1547728801840" expanded="true" signature="267:347" ph="/// Controller for the Validation resources ... " />
+            <marker date="1547728801840" expanded="true" signature="452:1718" ph="{...}" />
+            <marker date="1547728801840" expanded="true" signature="530:653" ph="/// Initializes this class ... " />
+            <marker date="1547728801840" expanded="true" signature="723:793" ph="{...}" />
+            <marker date="1547728801840" expanded="true" signature="803:1183" ph="/// Checks whether the Person with the given id's birth date matches with the given ... " />
+            <marker date="1547728801840" expanded="true" signature="1373:1712" ph="{...}" />
+            <marker date="1547728801840" expanded="true" signature="1603:1667" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EVotingService/ServiceModels/AddVoteModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <folding>
+            <marker date="1547730195802" expanded="true" signature="6:97" ph="..." />
+            <marker date="1547730195802" expanded="true" signature="169:476" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/PollRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+          <folding>
+            <marker date="1547130851876" expanded="false" signature="6:185" ph="..." />
+            <marker date="1547130851876" expanded="true" signature="253:985" ph="{...}" />
+            <marker date="1547130851876" expanded="true" signature="394:460" ph="{...}" />
+            <marker date="1547130851876" expanded="true" signature="518:671" ph="{...}" />
+            <marker date="1547130851876" expanded="true" signature="725:855" ph="{...}" />
+            <marker date="1547130851876" expanded="true" signature="902:979" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EVotingService/Validators/ObjectIdValidator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="23" column="5" selection-start-line="5" selection-start-column="3" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <marker date="1547721109424" expanded="false" signature="6:64" ph="..." />
+            <marker date="1547721109424" expanded="true" signature="160:657" ph="{...}" />
+            <marker date="1547721109424" expanded="true" signature="269:532" ph="{...}" />
+            <marker date="1547721109424" expanded="true" signature="384:476" ph="{...}" />
+            <marker date="1547721109424" expanded="true" signature="574:651" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EVotingService/Validators/AntwortValidator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="45" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+          <folding>
+            <marker date="1547730185400" expanded="true" signature="6:98" ph="..." />
+            <marker date="1547730185400" expanded="true" signature="193:730" ph="{...}" />
+            <marker date="1547730185400" expanded="true" signature="315:600" ph="{...}" />
+            <marker date="1547730185400" expanded="true" signature="432:536" ph="{...}" />
+            <marker date="1547730185400" expanded="true" signature="646:720" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abstractions/Poll.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+          <folding>
+            <marker date="1547130434788" expanded="false" signature="6:97" ph="..." />
+            <marker date="1547130434788" expanded="true" signature="145:331" ph="{...}" />
+            <marker date="1547130434788" expanded="true" signature="369:501" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EVotingService/Controllers/PollsController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
+          <folding>
+            <marker date="1547730534359" expanded="false" signature="6:218" ph="..." />
+            <marker date="1547730534359" expanded="true" signature="256:3271" ph="{...}" />
+            <marker date="1547730534359" expanded="true" signature="263:337" ph="/// Controller for the Poll resources ... " />
+            <marker date="1547730534359" expanded="true" signature="439:3269" ph="{...}" />
+            <marker date="1547730534359" expanded="true" signature="572:743" ph="/// Initializes this class ... " />
+            <marker date="1547730534359" expanded="true" signature="838:950" ph="{...}" />
+            <marker date="1547730534359" expanded="true" signature="960:1269" ph="/// Returns the Poll with the given Id ... " />
+            <marker date="1547730534359" expanded="true" signature="1458:1685" ph="{...}" />
+            <marker date="1547730534359" expanded="true" signature="1580:1645" ph="{...}" />
+            <marker date="1547730534359" expanded="true" signature="1695:1952" ph="/// Returns the available Polls for a Person ... " />
+            <marker date="1547730534359" expanded="true" signature="2141:2645" ph="{...}" />
+            <marker date="1547730534359" expanded="true" signature="2336:2587" ph="{...}" />
+            <marker date="1547730534359" expanded="true" signature="2495:2573" ph="{...}" />
+            <marker date="1547730534359" expanded="true" signature="2655:2861" ph="/// Adds a new Poll to the database ... " />
+            <marker date="1547730534359" expanded="true" signature="2968:3263" ph="{...}" />
+            <marker date="1547730534359" expanded="true" signature="3038:3251" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

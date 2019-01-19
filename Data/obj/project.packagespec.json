@@ -1,0 +1,63 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/lucienzimmermann/Documents/Workspaces/Rider Workspace/EVotingService/EVotingService/Data/Data.csproj",
+    "projectName": "Data",
+    "projectPath": "/Users/lucienzimmermann/Documents/Workspaces/Rider Workspace/EVotingService/EVotingService/Data/Data.csproj",
+    "outputPath": "/Users/lucienzimmermann/Documents/Workspaces/Rider Workspace/EVotingService/EVotingService/Data/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netstandard2.0"
+    ],
+    "frameworks": {
+      "netstandard2.0": {
+        "projectReferences": {
+          "/Users/lucienzimmermann/Documents/Workspaces/Rider Workspace/EVotingService/EVotingService/Abstractions/Abstractions.csproj": {
+            "projectPath": "/Users/lucienzimmermann/Documents/Workspaces/Rider Workspace/EVotingService/EVotingService/Abstractions/Abstractions.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netstandard2.0": {
+      "dependencies": {
+        "Microsoft.Extensions.Configuration.Abstractions": {
+          "target": "Package",
+          "version": "[2.1.1, )"
+        },
+        "Microsoft.Extensions.DependencyInjection.Abstractions": {
+          "target": "Package",
+          "version": "[2.1.1, )"
+        },
+        "MongoDB.Driver": {
+          "target": "Package",
+          "version": "[2.7.2, )"
+        },
+        "NETStandard.Library": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.3, )",
+          "autoReferenced": true
+        },
+        "Serilog": {
+          "target": "Package",
+          "version": "[2.7.1, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
