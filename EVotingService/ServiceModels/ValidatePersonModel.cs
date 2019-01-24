@@ -4,6 +4,9 @@ using EVotingService.Validators;
 
 namespace EVotingService.ServiceModels
 {
+    /// <summary>
+    /// Stores data for validating a Person
+    /// </summary>
     public class ValidatePersonModel
     {
         [Required]

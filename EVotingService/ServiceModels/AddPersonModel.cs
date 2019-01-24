@@ -3,6 +3,9 @@ using System.ComponentModel.DataAnnotations;
 
 namespace EVotingService.ServiceModels
 {
+    /// <summary>
+    /// Stores data for creating a new User
+    /// </summary>
     public class AddPersonModel
     {
         [Required]

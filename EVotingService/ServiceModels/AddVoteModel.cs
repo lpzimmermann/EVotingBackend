@@ -4,6 +4,9 @@ using EVotingService.Validators;
 
 namespace EVotingService.ServiceModels
 {
+    /// <summary>
+    /// Stores data for creating a new Vote
+    /// </summary>
     public class AddVoteModel
     {
         [Required]

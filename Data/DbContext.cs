@@ -19,6 +19,9 @@ namespace Data
         public virtual IMongoCollection<Poll> Polls => _db.GetCollection<Poll>("poll");
         public virtual IMongoCollection<Vote> Votes => _db.GetCollection<Vote>("vote");
         
+        /// <summary>
+        /// Sets up the database indexes for collections
+        /// </summary>
         private void SetupIndexes()
         {
             Log.Debug("Setting up Indexes");

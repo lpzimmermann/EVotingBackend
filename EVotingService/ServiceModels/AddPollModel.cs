@@ -3,6 +3,9 @@ using System.ComponentModel.DataAnnotations;
 
 namespace EVotingService.ServiceModels
 {
+    /// <summary>
+    /// Stores data for adding a new Poll
+    /// </summary>
     public class AddPollModel
     {
         [Required]

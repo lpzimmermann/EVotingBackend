@@ -10,7 +10,6 @@ namespace Abstractions
         public ObjectId PersonId { get; set; }
         public ObjectId PollId { get; set; }
         public AntwortType Antwort { get; set; }
-        
     }
     
     public enum AntwortType 

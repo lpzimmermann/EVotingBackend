@@ -57,7 +57,7 @@ namespace EVotingService.Controllers
         /// <response code="204">If the operation was successful</response>
         [HttpPut]
         [ProducesResponseType(204)]
-        public void Add(AddPersonModel anAddPersonModel)
+        public ActionResult Add(AddPersonModel anAddPersonModel)
         {
             _personRepository.AddPerson(new Person()
             {
@@ -66,6 +66,7 @@ namespace EVotingService.Controllers
                 Vorname = anAddPersonModel.Vorname,
                 Passnummer = ObjectId.GenerateNewId()
             });
+            return NoContent();
         }
         
     }

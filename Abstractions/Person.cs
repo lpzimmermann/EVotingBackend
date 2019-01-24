@@ -12,7 +12,6 @@ namespace Abstractions
         public string Name { get; set; }
         public string Vorname { get; set; }
         public DateTime Geburtstag { get; set; }
-        
     }
 
     public interface IPersonRepository

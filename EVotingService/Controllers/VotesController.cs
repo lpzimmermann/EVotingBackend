@@ -55,7 +55,7 @@ namespace EVotingService.Controllers
         /// <response code="200">If the operation was successful</response>
         [HttpPut]
         [ProducesResponseType(204)]
-        public void Add(AddVoteModel anAddVoteModel)
+        public ActionResult Add(AddVoteModel anAddVoteModel)
         {
             _voteRepository.AddVote(new Vote()
             {
@@ -64,6 +64,8 @@ namespace EVotingService.Controllers
                 PersonId = ObjectId.Parse(anAddVoteModel.PersonId),
                 PollId = ObjectId.Parse(anAddVoteModel.PollId)
             });
+
+            return NoContent();
         }
     }
 }

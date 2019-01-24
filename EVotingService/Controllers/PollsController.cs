@@ -84,7 +84,7 @@ namespace EVotingService.Controllers
         /// <response code="204">If the operation was successful</response>
         [HttpPut]
         [ProducesResponseType(204)]
-        public void Add(AddPollModel anAddPollModel)
+        public ActionResult Add(AddPollModel anAddPollModel)
         {
             _pollRepository.AddPoll(new Poll()
             {
@@ -93,6 +93,8 @@ namespace EVotingService.Controllers
                 Id = ObjectId.GenerateNewId(),
                 Title = anAddPollModel.Title
             });
+
+            return NoContent();
         }
     }
 }
